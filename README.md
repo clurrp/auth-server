@@ -11,7 +11,6 @@ To start, run `npm start`
 - Install Dependencies
 - Start Project
 - View Application
-- Acknowledgements
 
 ### Clone repo
 
